@@ -1,0 +1,2 @@
+# .github
+MineShock organization profile
